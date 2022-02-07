@@ -1,7 +1,7 @@
 # Maintainer: Vincenzo Caselli <vincenzo.caselli@rcp-vision.com>
 pkgname=pkg1
-pkgver=0.0.3
-pkgrel=3
+pkgver=0.0.4
+pkgrel=4
 pkgdesc="Just a test for building an Arch package"
 arch=(x86_64)
 url="https://github.com/vincenzocaselli/arcolinux-pkg1.git"
